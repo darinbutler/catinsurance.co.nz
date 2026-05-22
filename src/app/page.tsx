@@ -73,7 +73,7 @@ export default function HomePage() {
                 href="/cat-insurance/best-cat-insurance-nz"
                 className="border border-white/40 bg-white/10 backdrop-blur-sm text-white hover:bg-white/20 font-medium px-6 py-3.5 rounded-lg transition-colors text-center"
               >
-                Best Cat Insurance NZ
+                Best Cat Insurance
               </Link>
             </div>
             <div className="mt-8 flex flex-wrap gap-6 text-sm text-emerald-200">
