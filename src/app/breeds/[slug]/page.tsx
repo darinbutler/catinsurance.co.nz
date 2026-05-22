@@ -87,7 +87,6 @@ export default function BreedPage({ params }: Props) {
         <div className="absolute inset-0 bg-gradient-to-t from-slate-950/90 via-slate-900/50 to-emerald-900/20" />
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12 w-full">
           <div className="flex items-center gap-3 mb-4">
-            <span className="text-5xl drop-shadow-lg">{breed.icon}</span>
             <span className="text-sm font-medium bg-emerald-500/80 backdrop-blur-sm px-3 py-1 rounded-full">
               Insurance Guide
             </span>
@@ -208,7 +207,6 @@ export default function BreedPage({ params }: Props) {
                       href={`/breeds/${b.slug}`}
                       className="flex items-center gap-2 py-1.5 text-sm text-slate-600 hover:text-emerald-700"
                     >
-                      <span>{b.icon}</span>
                       <span>{b.name}</span>
                     </Link>
                   ))}
