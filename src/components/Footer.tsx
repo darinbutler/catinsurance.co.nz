@@ -52,8 +52,11 @@ export default function Footer() {
               <li><Link href="/faqs" className="hover:text-emerald-400 transition-colors">FAQs</Link></li>
               <li><Link href="/cat-insurance/best-cat-insurance-nz" className="hover:text-emerald-400 transition-colors">Best Cat Insurance NZ</Link></li>
               <li><Link href="/cat-insurance/cheap-cat-insurance-nz" className="hover:text-emerald-400 transition-colors">Cheap Cat Insurance NZ</Link></li>
-              <li><Link href="/cat-insurance/cat-insurance-for-older-cats-nz" className="hover:text-emerald-400 transition-colors">Senior Cat Insurance</Link></li>
+              <li><Link href="/cat-insurance/cat-insurance-cost-nz" className="hover:text-emerald-400 transition-colors">Cat Insurance Cost</Link></li>
+              <li><Link href="/cat-insurance/senior-cat-insurance-nz" className="hover:text-emerald-400 transition-colors">Senior Cat Insurance</Link></li>
               <li><Link href="/cat-insurance/cat-insurance-for-kittens-nz" className="hover:text-emerald-400 transition-colors">Kitten Insurance</Link></li>
+              <li><Link href="/cat-insurance/cat-insurance-no-excess-nz" className="hover:text-emerald-400 transition-colors">No Excess Cat Insurance</Link></li>
+              <li><Link href="/cat-insurance/cat-insurance-pre-existing-conditions-nz" className="hover:text-emerald-400 transition-colors">Pre-Existing Conditions</Link></li>
             </ul>
           </div>
         </div>
@@ -98,6 +101,7 @@ export default function Footer() {
               . All rights reserved. CatInsurance.co.nz
             </p>
             <div className="flex gap-4 text-xs">
+              <Link href="/about" className="hover:text-emerald-400 transition-colors">About Us</Link>
               <Link href="/privacy" className="hover:text-emerald-400 transition-colors">Privacy Policy</Link>
               <Link href="/terms" className="hover:text-emerald-400 transition-colors">Terms of Use</Link>
               <Link href="/disclaimer" className="hover:text-emerald-400 transition-colors">Disclaimer</Link>

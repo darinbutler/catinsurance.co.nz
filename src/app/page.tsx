@@ -277,14 +277,14 @@ export default function HomePage() {
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
             {[
-              { name: 'Domestic Shorthair', href: '/breeds/domestic-shorthair', img: 'https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=300&q=70' },
-              { name: 'Ragdoll', href: '/breeds/ragdoll', img: 'https://images.unsplash.com/photo-1573865526537-6a6e5b20a869?w=300&q=70' },
-              { name: 'Maine Coon', href: '/breeds/maine-coon', img: 'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=300&q=70' },
-              { name: 'Persian', href: '/breeds/persian', img: 'https://images.unsplash.com/photo-1574158622682-e40e69881006?w=300&q=70' },
-              { name: 'British Shorthair', href: '/breeds/british-shorthair', img: 'https://images.unsplash.com/photo-1592194996308-7b43878e84a6?w=300&q=70' },
-              { name: 'Bengal', href: '/breeds/bengal', img: 'https://images.unsplash.com/photo-1555685812-4b943f1cb0eb?w=300&q=70' },
-              { name: 'Siamese', href: '/breeds/siamese', img: 'https://images.unsplash.com/photo-1561948955-570b270e7c36?w=300&q=70' },
-              { name: 'Burmese', href: '/breeds/burmese', img: 'https://images.unsplash.com/photo-1548767797-d8c844163c4a?w=300&q=70' },
+              { name: 'Domestic Shorthair', href: '/breeds/domestic-shorthair', img: '/hero-domestic-shorthair.jpg' },
+              { name: 'Ragdoll', href: '/breeds/ragdoll', img: '/hero-ragdoll.jpg' },
+              { name: 'Maine Coon', href: '/breeds/maine-coon', img: '/hero-maine-coon.jpg' },
+              { name: 'Persian', href: '/breeds/persian', img: '/hero-persian.jpg' },
+              { name: 'British Shorthair', href: '/breeds/british-shorthair', img: '/hero-british-shorthair.jpg' },
+              { name: 'Bengal', href: '/breeds/bengal', img: '/hero-bengal.jpg' },
+              { name: 'Siamese', href: '/breeds/siamese', img: '/hero-siamese.jpg' },
+              { name: 'Burmese', href: '/breeds/burmese', img: '/hero-burmese.jpg' },
             ].map((breed) => (
               <Link
                 key={breed.href}

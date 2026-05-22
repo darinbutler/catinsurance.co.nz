@@ -593,4 +593,192 @@ Zero excess is best value if your cat has a chronic condition requiring frequent
       { q: 'Should I choose high or low excess for my cat?', a: 'Choose low/zero excess if your cat has ongoing health issues requiring frequent visits. Choose higher excess if your cat is young and healthy and you want a lower monthly premium — it\'s essentially self-insuring smaller bills.' },
     ],
   },
+  {
+    slug: 'cat-insurance-cost-nz',
+    city: '',
+    region: 'New Zealand',
+    title: 'How Much Does Cat Insurance Cost?',
+    metaTitle: 'Cat Insurance Cost NZ 2026 — How Much Does Cat Insurance Cost? | CatInsurance.co.nz',
+    metaDescription: 'How much does cat insurance cost in New Zealand? Compare 2026 prices across all 6 providers. Cat insurance from $11–$65/month depending on breed, age and plan.',
+    heroHeading: 'Cat Insurance Cost NZ',
+    heroSubheading: 'How much does cat insurance cost? 2026 price guide for NZ cat owners',
+    intro: 'Cat insurance in New Zealand costs between $11 and $65+ per month depending on your cat\'s age, breed, and the level of cover you choose. Accident-only policies start from $11/month, while comprehensive cover for a pedigree cat typically costs $40–$65/month.',
+    localStats: 'The average NZ cat owner pays $28–$40/month for comprehensive cat insurance. Emergency vet visits now average $300–$500, and a single specialist treatment can cost $3,000–$15,000.',
+    localVets: [],
+    bodyContent: `Understanding cat insurance costs helps you budget and find the best value policy for your cat and household. Here\'s a complete breakdown of what you\'ll pay in New Zealand in 2026.
+
+**Cat insurance price ranges by cover type:**
+
+| Cover Type | Monthly Cost | What\'s Covered |
+|-----------|-------------|----------------|
+| Accident-only | $11–$20/month | Road accidents, falls, foreign body ingestion |
+| Accident & illness | $19–$45/month | All accidents plus disease, infections, cancer |
+| Comprehensive | $25–$65+/month | Accidents, illness, hereditary conditions, optional dental/wellness |
+
+**Price by provider (2026):**
+
+- **Southern Cross AcciPet:** From $11/month — accident-only, entry-level
+- **Cove Minor Plan:** From $19/month — accident and illness, online-only
+- **PD Insurance:** From $22/month — 100% reimbursement, no excess, no co-pay
+- **SPCA Pet Insurance:** From $20/month — fastest claims (1–2 days), hereditary cover
+- **Pet-n-Sur:** From $20/month — accepts cats up to 11yr 11mo
+- **Petcover:** From $20/month — 40+ years experience, 93% claims paid
+
+**What affects cat insurance premiums?**
+
+**Your cat\'s age.** Kittens attract the lowest premiums. Cats aged 7+ attract loading — premiums can be 30–60% higher for senior cats than for young adults.
+
+**Breed.** Pedigree breeds (Ragdoll, Persian, Maine Coon, Scottish Fold) attract higher premiums due to known hereditary conditions. A domestic shorthair typically costs 20–30% less to insure than a pedigree breed.
+
+**Level of cover.** Accident-only is cheapest. Adding illness cover adds $8–$15/month. Hereditary condition cover, dental add-ons and wellness plans add further cost.
+
+**Your chosen excess.** A $0 excess means maximum monthly cost — but maximum back at claim time. Choosing a $500 or $1,000 excess can reduce your premium by 20–35%.
+
+**Co-payment percentage.** Most insurers include a 10–20% co-payment (your share per claim). PD Insurance offers 0% co-payment on standard plans — you receive 100% of eligible costs back.
+
+**Is cat insurance worth the cost?**
+
+Consider: a single emergency vet visit for a blocked bladder (urethral obstruction) typically costs $2,000–$4,500. Comprehensive cat insurance at $35/month costs $420/year. One emergency can make 10+ years of premiums worthwhile. The decision is essentially: do you self-insure (accept the financial risk yourself) or transfer the risk to an insurer?
+
+For most NZ cat owners — especially those who couldn\'t absorb a $3,000+ vet bill without financial stress — cat insurance is genuinely worth the monthly cost.
+
+**How to reduce your cat insurance premium:**
+
+- Insure your cat as a kitten to lock in lower rates
+- Choose a higher excess if your cat is young and healthy
+- Pay annually rather than monthly (some insurers offer discounts)
+- Use multi-pet discounts if you have more than one pet
+- Compare all 6 providers — premiums vary significantly for the same cover level`,
+    faqs: [
+      { q: 'How much does cat insurance cost per month in NZ?', a: 'Cat insurance costs $11–$65/month in New Zealand depending on cover level and your cat. Accident-only from $11/month (Southern Cross), accident and illness from $19/month (Cove), comprehensive from $20–$45/month for most domestic cats.' },
+      { q: 'Is cat insurance expensive in NZ?', a: 'Not relative to vet costs. Comprehensive cover at $25–$40/month is $300–$480/year. A single emergency visit (e.g., blocked bladder, foreign body, fracture) typically costs $1,500–$4,500 — making one incident worth 3–15 years of premiums.' },
+      { q: 'Which is the cheapest cat insurance in NZ?', a: 'Southern Cross AcciPet is cheapest at $11/month — accident-only cover. For accident and illness, Cove starts from $19/month. For comprehensive hereditary-condition cover, SPCA Pet Insurance and PD Insurance both start from $20–$22/month.' },
+      { q: 'Does cat insurance get more expensive as my cat ages?', a: 'Yes — most NZ insurers apply age loadings, meaning premiums increase as your cat gets older. Southern Cross limits new enrolments to cats under 7. Insuring young locks in lower rates and avoids pre-existing condition exclusions.' },
+    ],
+  },
+  {
+    slug: 'senior-cat-insurance-nz',
+    city: '',
+    region: 'New Zealand',
+    title: 'Senior Cat Insurance NZ',
+    metaTitle: 'Senior Cat Insurance NZ — Cover for Cats 7+ Years | CatInsurance.co.nz',
+    metaDescription: 'Senior cat insurance in New Zealand for cats aged 7 and over. Compare NZ providers who cover senior cats. Pet-n-Sur accepts new policies up to 11 years 11 months.',
+    heroHeading: 'Senior Cat Insurance NZ',
+    heroSubheading: 'Cat insurance for older cats — compare cover for cats aged 7 and over',
+    intro: 'Senior cats need insurance most — and are the hardest to cover. Most NZ insurers cap new policy entry at 9 years, but Pet-n-Sur accepts cats up to 11 years 11 months. If your cat is 7 or older, here\'s what you need to know.',
+    localStats: 'Over 30% of New Zealand\'s 1.2 million pet cats are aged 7 or older. Senior cats have 3–5 times the incidence of kidney disease, cancer, hyperthyroidism and diabetes compared to cats under 7.',
+    localVets: [],
+    bodyContent: `Cats are living longer than ever — the average indoor cat now lives 12–18 years — but NZ\'s cat insurance market hasn\'t fully caught up. Here\'s a complete guide to insuring older cats in New Zealand.
+
+**Which NZ insurers accept senior cats?**
+
+| Provider | Maximum Entry Age | Notes |
+|----------|-----------------|-------|
+| Pet-n-Sur | 11 years 11 months | Highest entry age in NZ — best for senior cats |
+| SPCA Pet Insurance | 9 years | Accepts up to 9yr; premiums increase with age |
+| PD Insurance | 9 years | No age loadings post-enrolment; $0 excess |
+| Petcover | 9 years | Premier plan covers hereditary conditions |
+| Cove | Check policy | AcciPet at any age; illness plans check directly |
+| Southern Cross | Under 7 | Does NOT accept new enrolments over 7 years |
+
+**The most important rule for senior cats: insure early.** Any condition your cat has developed before the policy starts is excluded as pre-existing. Insuring your cat at age 5–6 means conditions that develop at 7–8 are covered. Insuring at age 9 means everything before age 9 may be excluded.
+
+**Most common conditions in senior NZ cats:**
+
+**Chronic kidney disease (CKD).** Affects up to 30% of cats over 15, and around 10% of cats over 10. Treatment involves prescription diet, regular fluids, phosphate binders and monitoring. Annual costs: $1,500–$5,000+. If insured before diagnosis, this is covered under most comprehensive plans.
+
+**Hyperthyroidism.** The most common hormonal disorder in older cats, typically developing after age 10. Medication (methimazole/felimazole) costs $400–$800/year long-term, or radio-iodine treatment costs $2,500–$3,500 as a one-time cure.
+
+**Diabetes mellitus.** Requires daily insulin injections and regular glucose monitoring. Annual management costs $1,500–$3,000. Weight management and diet change are also part of treatment.
+
+**Dental disease.** 70–80% of cats over 3 have some degree of dental disease; by senior years it\'s often severe. Dental procedures under anaesthetic cost $600–$2,000 per episode. Some plans cover dental illness — check your policy.
+
+**Arthritis / degenerative joint disease.** Common in cats over 10, often underdiagnosed. Specialist assessment, pain management medication and environmental modifications add $500–$2,000/year.
+
+**Cancer.** The leading cause of death in cats over 10. Lymphoma, squamous cell carcinoma and fibrosarcoma are most common. Chemotherapy, surgery or palliative care can cost $3,000–$12,000.
+
+**What senior cat insurance covers:**
+
+Most comprehensive policies (once active) cover the conditions above if they develop after policy inception. Key things to check for older cats:
+
+- **Annual limit** — choose at least $10,000; $15,000–$25,000 is ideal for chronic conditions
+- **Co-payment** — 0% (PD Insurance) means you keep more at claim time
+- **Hereditary condition cover** — relevant for pedigree breeds who develop conditions common to their breed
+- **Waiting period** — most insurers impose a 14–30 day wait before illness claims are accepted
+
+**Pet-n-Sur — the specialist choice for cats over 9:**
+
+If your cat is over 9, Pet-n-Sur is your primary option for new cover. They are the only NZ insurer accepting new policies at this age. Premiums apply age loading — expect to pay 30–50% more than for a young adult cat — but cover is meaningful for the years ahead. 100% NZ owned and operated since 2004.`,
+    faqs: [
+      { q: 'Can I insure a 10-year-old cat in NZ?', a: 'Yes — Pet-n-Sur accepts new policies for cats up to 11 years 11 months, making them the only NZ insurer for cats over 9. Other providers (SPCA, PD Insurance, Petcover) accept up to age 9.' },
+      { q: 'Is it worth insuring a senior cat?', a: 'Yes — senior cats have the highest rates of expensive conditions (CKD, hyperthyroidism, cancer). If you can insure before these conditions develop, insurance can save thousands. The challenge is that pre-existing conditions are excluded, so insuring early is the key.' },
+      { q: 'Why does Southern Cross not cover older cats?', a: 'Southern Cross PetCare only accepts new enrolments for cats under 7 years of age. This is their policy entry age limit. If your cat is over 7, consider SPCA Pet Insurance, PD Insurance, Petcover or Pet-n-Sur.' },
+      { q: 'Will pre-existing conditions be covered for my senior cat?', a: 'No — no NZ insurer covers conditions that existed before your policy started. A senior cat with CKD, hyperthyroidism, or arthritis before the policy inception date will have those conditions excluded. Insurance only covers new conditions that develop after the policy starts.' },
+    ],
+  },
+  {
+    slug: 'cat-insurance-pre-existing-conditions-nz',
+    city: '',
+    region: 'New Zealand',
+    title: 'Cat Insurance with Pre-Existing Conditions',
+    metaTitle: 'Cat Insurance Pre-Existing Conditions NZ — What\'s Covered? | CatInsurance.co.nz',
+    metaDescription: 'Can you get cat insurance if your cat has pre-existing conditions? Compare NZ options. SPCA Pet Insurance may cover non-chronic pre-existing conditions after a qualifying period.',
+    heroHeading: 'Cat Insurance & Pre-Existing Conditions',
+    heroSubheading: 'What NZ cat insurers cover when your cat has a pre-existing condition',
+    intro: 'Pre-existing conditions are the most commonly misunderstood aspect of cat insurance. As a rule, no NZ insurer covers conditions that existed before your policy started — but SPCA Pet Insurance is unique in potentially covering non-chronic pre-existing conditions after a symptom-free qualifying period.',
+    localStats: 'Research shows that 40% of NZ cat owners who don\'t have insurance cite pre-existing conditions or fear of exclusions as a reason. Understanding exactly what is and isn\'t covered helps you make an informed decision.',
+    localVets: [],
+    bodyContent: `Pre-existing conditions are the number one source of declined claims in the NZ pet insurance market. Here\'s a clear guide to what each insurer covers, and what to expect.
+
+**What is a pre-existing condition?**
+
+A pre-existing condition is any illness, injury, or symptom that existed before your insurance policy started (or within the waiting period). This includes:
+
+- Conditions your vet has diagnosed and treated
+- Conditions your cat has shown symptoms of, even if undiagnosed
+- Ongoing or recurring conditions
+- Conditions related to a breed\'s known genetic predispositions (varies by insurer)
+
+**Non-chronic vs. chronic pre-existing conditions:**
+
+NZ insurers typically distinguish between two types:
+
+**Chronic (ongoing) conditions** — e.g., diabetes, CKD, hyperthyroidism, epilepsy. These are excluded by all NZ cat insurers if diagnosed before the policy start.
+
+**Non-chronic (resolved) conditions** — e.g., a single UTI that resolved and never recurred, a broken bone that healed completely, a minor infection treated 2 years ago. These may become coverable after a symptom-free period with some insurers.
+
+**How each NZ insurer handles pre-existing conditions:**
+
+**SPCA Pet Insurance — most favourable approach.** SPCA is the only NZ insurer that may cover non-chronic pre-existing conditions after a qualifying symptom-free period (typically 12–24 months). This means if your cat had a UTI 2 years ago that never recurred, SPCA may cover future UTIs — rather than excluding all urinary conditions forever. Best option if your cat has had minor past ailments.
+
+**Cove — standard approach.** All conditions showing symptoms before the policy start are permanently excluded. No provision for reviewing or reinstating coverage after a symptom-free period.
+
+**PD Insurance — standard approach.** Pre-existing conditions are excluded at policy inception. No reinstatement pathway. However, PD\'s $0 excess and 100% reimbursement model means maximum value for all *new* conditions.
+
+**Southern Cross — standard approach.** All pre-existing conditions excluded. Also excludes hereditary conditions as standard — so pedigree breeds with genetic predispositions face a double exclusion.
+
+**Petcover — standard approach.** Pre-existing conditions excluded. However, their 40+ years of experience means they manage exclusions professionally — you\'ll receive a clear policy schedule detailing what is and isn\'t covered.
+
+**Pet-n-Sur — standard approach.** Pre-existing conditions excluded. Best option for senior cats due to their 11yr 11mo entry age, despite standard pre-existing exclusions.
+
+**Tips for getting the most cover despite pre-existing conditions:**
+
+**Insure your cat as young as possible.** The younger you insure, the fewer pre-existing conditions exist. Conditions that develop after the policy starts are covered — insuring a kitten means maximum lifetime coverage.
+
+**Be honest on your application.** Failing to disclose a pre-existing condition and then claiming for it is a common cause of declined claims. Policies typically require you to complete a health declaration. Honesty protects your ability to claim.
+
+**Ask about the SPCA Pet Insurance qualifying period.** If your cat had a past condition that fully resolved over 12–24 months ago, ask SPCA Pet Insurance specifically whether that condition would be reviewed after the qualifying period.
+
+**Consider accident-only cover as a starting point.** If your cat has an illness pre-existing condition, an accident-only policy (from $11/month via Southern Cross AcciPet) still provides meaningful protection against road accidents, falls, foreign body ingestion and bite wounds — none of which relate to the pre-existing illness.
+
+**What to do if your cat\'s claim is declined:**
+
+If a claim is declined because the insurer classes it as pre-existing, you have options. Ask for the policy definition of pre-existing condition in writing. Request that your vet complete a supporting letter outlining the timeline of symptoms and treatment. If you believe the decision is wrong, escalate to the insurer\'s internal complaints process, and if unresolved, to FSCL (Financial Services Complaints Limited) — the independent dispute resolution scheme for NZ insurance.`,
+    faqs: [
+      { q: 'Can I get cat insurance if my cat has a pre-existing condition in NZ?', a: 'Yes — you can get a policy, but the pre-existing condition itself will typically be excluded from cover. All other new conditions that develop after the policy starts are covered. SPCA Pet Insurance is the only NZ provider that may cover non-chronic pre-existing conditions after a symptom-free qualifying period.' },
+      { q: 'What counts as a pre-existing condition in NZ cat insurance?', a: 'Any condition that showed symptoms before your policy started — whether diagnosed or not. This includes past infections, injuries, chronic diseases and breed-specific genetic conditions (depending on the insurer). Conditions that fully resolved and have been symptom-free for 12–24 months may be reviewable at SPCA Pet Insurance.' },
+      { q: 'Should I tell my cat insurer about past conditions?', a: 'Yes — always. Failing to disclose known conditions and then claiming for them is a common reason claims are declined and policies voided. Be upfront in your application; you\'ll receive a clear policy schedule showing exactly what is excluded.' },
+      { q: 'Will my cat\'s past UTI be excluded by all NZ insurers?', a: 'Most NZ insurers would exclude urinary conditions if your cat has had a UTI in the past. SPCA Pet Insurance may reinstate cover for urinary conditions after 12–24 months symptom-free — making them the recommended choice for cats with a history of resolved UTIs or similar non-chronic conditions.' },
+    ],
+  },
 ];
